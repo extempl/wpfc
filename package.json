@@ -1,0 +1,13 @@
+{
+  "name": "wpfc",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "zero",
+    "build": "zero build",
+    "start": "NODE_ENV=production zero"
+  },
+  "dependencies": {
+    "zero": "latest"
+  }
+}
